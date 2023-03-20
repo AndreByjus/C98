@@ -1,0 +1,13 @@
+body
+{
+    background-color: rgb(182, 244, 255);
+}
+
+#start
+{
+    background-color: rgb(87, 87, 255);
+    height: 50;
+    width: 80;
+    border-style: double;
+    color: black;
+}
